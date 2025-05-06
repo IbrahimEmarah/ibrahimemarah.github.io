@@ -219,7 +219,7 @@ margin-bottom: 50px;
 .banner {
     width: 100%; /* full viewport width */
     height: auto;
-    background-image: url('/resources/banner.svg');
+    background-image: url(/resources/banner.svg);
     background-repeat: no-repeat;
     background-size: 100% 90%; /* scale to full width, maintain height */
     background-position: center;
